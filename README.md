@@ -1,2 +1,4 @@
 # Hello-World
-first program
+this is my first programm
+I'm learning python 
+I'm noob
